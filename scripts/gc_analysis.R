@@ -1,0 +1,1 @@
+# Script to ananlyse growth curves, producing growth rate, lag time, AUC etc
